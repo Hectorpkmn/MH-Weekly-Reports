@@ -73,3 +73,24 @@ The biggest challenge for me now is the branches on Git, I´m able to make chang
 Thursday September 20th
 
 Friday September 21st
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+Ignacio Contreras Contreras
+
+Results for Week 1: September 17-21, 2019
+
+-Solved at least 70% of HackerRank challenges.
+-Completed CodeCademy Ruby course.
+-Completed Ruby Koans.
+-I now have a basic understanding of how Ruby works, and I am more comfortable with the syntax and working with Ruby,
+
+Main Goals for Next Week:
+
+-Complete the Tic-Tac-Toe game.
+-Complete Conway's Game of Life.
+-Complete the group Project: "How to write a Ruby Gem"
+-Research more on Ruby Gems.
+-Finish reading the book: "Learn Ruby the Hard Way"
+-Complete at least 90% of HackerRank Problems.
