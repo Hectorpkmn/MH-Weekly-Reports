@@ -1,3 +1,23 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Weekly report 17-21 september
 
 -Main results on finished week-
@@ -13,3 +33,28 @@ Weekly report 17-21 september
   2. Make tic-tac-toe game in web app
   3. Create API for tic-tac-toe game
   2. Finish game of life in console
+
+
+
+Eduardo Javier Candanedo Contreras
+
+Monday September 17th
+
+
+I worked on the Tic Tac Toe game, i was able to create the whole game with terminal interface, and also create my very first gem and install it to use it; I also completed the course of Codeacademy 100% and finally went over the basics of git. Some of the commitments that I setup to my self were to work on refactoring my code for the TicTacToe´s game, and  work also on the HackerRank course.The obstacles that I was facing back then were relate with the GUI creation using rails, i was able to do something on this already but it was very minimum like creating the controllers and connect them but i hadn´t been able to call the gem. Never the less I guess is still find do to the fact that i havent gone into detail on this, I really havent been able to go deep on the subject.
+
+Tuesday September 18th
+worked on the Ruby Koans I was able to solve the first 5 documents and also worked on learning GIT
+working on the Ruby Koans again and finish up with Git (went over documentation)
+Git has been my biggest blocker cause it is a tool that I´m not familiar with and I dont fully understand its function and capabilities
+
+
+Wensday September 19th
+
+I worked on the RubyKoans no I have reach 161/282, also worked on solving my question about GIT by going to the Documentation, also fix some errors on the TicTacToe´s Game and made some changes according to Kevinnio comments on my Repository (Basically apply Ruby´s good practices).
+Today I will try to finish all the RubyKoans, I will also create the Gem for the TicTacToe´Game, also I will try to begin the Weekly report and reach an agreement with my team mates to determine what is it that each of us is going to be doing about the report.
+The biggest challenge for me now is the branches on Git, I´m able to make changes directly on the master, but when it comes to use new and different branches thats where my problem is for now, I will try to go over that today with the Documentation, if it´s the same by tomorrow, then I will ask Kevin or Albert for some advises
+
+Thursday September 20th
+
+Friday September 21st
