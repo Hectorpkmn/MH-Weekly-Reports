@@ -34,6 +34,21 @@ Weekly report 17-21 september
   3. Create API for tic-tac-toe game
   2. Finish game of life in console
 
+Hector Hernandez Anguiano
+Week 1 results
+- Awareness for required activities and useful resources
+- Ruby training in CodeCademy covered until Array and Hashes
+- GitHub repositories created for individual projects
+- Ruby installed and code editor configured
+- Code started for Tic Tac Toe
+
+Week 2 Goals
+- Git basic level mastering
+- Tic Tac Toe completion
+- Ruby Koans progress
+- Ruby training progress
+
+
 
 
 Eduardo Javier Candanedo Contreras
