@@ -1,0 +1,15 @@
+Weekly report 17-21 september
+
+-Main results on finished week-
+  1. Ruby koans finished
+  2. Github training
+  3. Tic-tac-toe game in console --> advanced to ---%
+  4. Better understanding in ruby language
+  5. Code academy course finished
+
+
+-Main results next week-
+  1. Create the gem that contains tic-tac-toe logic and verify that can be used correctly
+  2. Make tic-tac-toe game in web app
+  3. Create API for tic-tac-toe game
+  2. Finish game of life in console
